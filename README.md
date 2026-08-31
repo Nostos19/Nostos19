@@ -1,30 +1,331 @@
-<h1 align="center">Hi 👋, I'm Tutai Hazra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- ========================= HEADER ========================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nostos19&label=Profile%20views&color=0e75b6&style=flat" alt="nostos19" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nostos19" alt="nostos19" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tutai%20Hazra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
-- 🌱 I’m currently learning **AI & ML**
+<br>
 
-- 💬 Ask me about **Full Stack Dev**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+%26+Scalable+Applications+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%7C+Always+Improving+%E2%9C%A8" alt="Typing SVG" />
 
-- 📫 How to reach me **tutaihazra128@gmail.com**
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tutai hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tutai hazra" height="30" width="40" /></a>
-<a href="https://fb.com/tutai hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutai hazra" height="30" width="40" /></a>
-<a href="https://instagram.com/7uta1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7uta1x" height="30" width="40" /></a>
-<a href="https://discord.gg/alone04704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alone04704" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=nostos19&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<!-- ========================= ABOUT ========================= -->
+
+## 👨‍💻 About Me
+
+```python
+class TutaiHazra:
+
+    def __init__(self):
+        self.name = "Tutai Hazra"
+        self.location = "India 🇮🇳"
+        self.role = "AI/ML & Full Stack Developer"
+        self.current_focus = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full Stack Development"
+        ]
+
+        self.languages = [
+            "Python",
+            "Java",
+            "C",
+            "C++",
+            "JavaScript",
+            "SQL"
+        ]
+
+        self.goal = "Build intelligent technology that solves real-world problems 🚀"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! 👋")
+
+
+me = TutaiHazra()
+me.say_hi()
+```
+
+### 🚀 What I'm Currently Doing
+
+* 🤖 Learning **Artificial Intelligence & Machine Learning**
+* 💻 Improving my **Full Stack Development** skills
+* 🧠 Practicing **DSA & Problem Solving**
+* 🔨 Building practical AI-powered projects
+* 🌱 Exploring modern software development technologies
+* 📚 Continuously learning and experimenting
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🤖 AI / Machine Learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nostos19&show_icons=true&locale=en&layout=compact" alt="nostos19" /></p>
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nostos19&show_icons=true&locale=en" alt="nostos19" /></p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nostos19&" alt="nostos19" /></p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</p>
+
+### 🌐 Full Stack Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,spring,flask" />
+
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,linux,vscode" />
+
+</p>
+
+---
+
+<!-- ========================= PROJECTS ========================= -->
+
+## 🚀 Featured Projects
+
+<table align="center">
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 EDUNOVA</h3>
+
+<p align="center">
+AI-powered study assistant designed to make learning faster and smarter.
+</p>
+
+<p align="center">
+
+<b>AI • NLP • Python • Streamlit</b>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🧠 AI / ML Projects</h3>
+
+<p align="center">
+Machine learning projects focused on prediction, pattern recognition and intelligent automation.
+</p>
+
+<p align="center">
+
+<b>Python • ML • Data Science</b>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">⚡ Liphera</h3>
+
+<p align="center">
+An offline edge-AI concept focused on intelligent processing with local computation.
+</p>
+
+<p align="center">
+
+<b>Edge AI • Python • AI</b>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">💻 Full Stack Applications</h3>
+
+<p align="center">
+Building responsive web applications and backend systems using modern development technologies.
+</p>
+
+<p align="center">
+
+<b>Java • Spring • React • SQL</b>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nostos19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostos19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nostos19&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+<!-- ========================= CONTRIBUTION GRAPH ========================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nostos19&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</p>
+
+---
+
+<!-- ========================= SNAKE ========================= -->
+
+## 🐍 My Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nostos19/nostos19/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
+<!-- ========================= TROPHIES ========================= -->
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nostos19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+
+</p>
+
+---
+
+<!-- ========================= CONTRIBUTION CALENDAR ========================= -->
+
+## 🗓️ Contribution Calendar
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nostos19&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</p>
+
+---
+
+<!-- ========================= CURRENT FOCUS ========================= -->
+
+## 🎯 Current Focus
+
+```text
+Artificial Intelligence     ███████████████████░░   90%
+Machine Learning             █████████████████░░░░   85%
+Python                       ███████████████████░░   90%
+Full Stack Development       ████████████████░░░░░   80%
+Java                         ███████████████░░░░░░   75%
+DSA & Problem Solving        ███████████████░░░░░░   75%
+```
+
+---
+
+<!-- ========================= CONNECT ========================= -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/tutai-hazra">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tutaihazra128@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/7uta1x">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/alone04704">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<!-- ========================= GITHUB PROFILE ========================= -->
+
+## 💡 Developer Philosophy
+
+<div align="center">
+
+> **"Learn. Build. Break. Fix. Repeat."**
+
+### 🚀 Code with purpose.
+
+### 🧠 Learn continuously.
+
+### 🤖 Build intelligently.
+
+### 🌎 Create something meaningful.
+
+</div>
+
+---
+
+<!-- ========================= FOOTER ========================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
