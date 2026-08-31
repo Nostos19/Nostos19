@@ -20,36 +20,6 @@
 
 ## 👨‍💻 About Me
 
-```python
-class TutaiHazra:
-
-    def __init__(self):
-        self.name = "Tutai Hazra"
-        self.location = "India 🇮🇳"
-        self.role = "AI/ML & Full Stack Developer"
-        self.current_focus = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Development"
-        ]
-
-        self.languages = [
-            "Python",
-            "Java",
-            "C",
-            "C++",
-            "JavaScript",
-            "SQL"
-        ]
-
-        self.goal = "Build intelligent technology that solves real-world problems 🚀"
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! 👋")
-
-
-me = TutaiHazra()
-me.say_hi()
 ```
 
 ### 🚀 What I'm Currently Doing
