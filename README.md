@@ -28,6 +28,56 @@
 # 💫 About Me:
 👨‍💻 About Me<br><br>Hi! I'm Tutai Hazra, an aspiring AI/ML & Full Stack Developer from India 🇮🇳 who enjoys turning ideas into practical, intelligent applications.<br><br>I'm passionate about Artificial Intelligence, Machine Learning, software development, and problem-solving. I enjoy exploring how intelligent systems work and building projects that combine AI with real-world applications.<br><br>🚀 What I Do<br>🤖 Explore AI, Machine Learning & Deep Learning<br>🧠 Work with Python, TensorFlow, PyTorch & Scikit-learn<br>💻 Build applications using Java, Spring, React & Flask<br>🗄️ Work with MySQL & MongoDB<br>📊 Explore Data Analysis, NLP & Pattern Recognition<br>🧩 Practice DSA & competitive problem-solving<br>🔧 Use Git, GitHub, Docker & Linux for development
 
+📊 GitHub Stats
+
+<div align="center">
+
+<!-- Profile Details -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nostos19&theme=gruvbox_light" width="98%"/>
+
+<br><br>
+
+<!-- GitHub Stats -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nostos19&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nostos19&theme=gruvbox_light&hide_border=true"/>
+
+<br><br>
+
+<!-- Repository Languages -->
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nostos19&theme=gruvbox_light"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nostos19&theme=gruvbox_light"/>
+
+<br><br>
+
+<!-- Productive Time -->
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nostos19&theme=gruvbox_light&utcOffset=5.5"/>
+
+<!-- Top Languages -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nostos19&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nostos19&theme=github-compact&hide_border=true&area=true" width="98%"/>
+
+</div>
+
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alone04704) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tutai Hazra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/7uta1x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tutai Hazra) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tutai Hazra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tutaihazra128@gmail.com) 
