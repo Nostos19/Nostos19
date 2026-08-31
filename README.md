@@ -195,19 +195,7 @@ Building responsive web applications and backend systems using modern developmen
 
 ---
 
-<!-- ========================= SNAKE ========================= -->
 
-## 🐍 My Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nostos19/nostos19/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
-<!-- ========================= TROPHIES ========================= -->
 
 ## 🏆 GitHub Trophies
 
