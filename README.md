@@ -41,9 +41,6 @@
 <!-- GitHub Stats -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nostos19&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nostos19&theme=gruvbox_light&hide_border=true"/>
-
 <br><br>
 
 <!-- Repository Languages -->
