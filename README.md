@@ -4,7 +4,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050505,50:0f172a,100:111827&text=TUTAI%20HAZRA&fontColor=00E5FF&fontSize=65&fontAlignY=45&desc=AI%20%7C%20ML%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=65&descSize=18&animation=fadeIn"/>
 
-<br>
+
+
+</div>
+
+<div align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHoyNnhmZnNzdXV0OWY3NHdiZDJnc2NlbWJuOHdpMjc0dnE4aGswNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Opening GIF" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=0077B6&center=true&vCenter=true&width=1000&lines=Eat,+Sleep,+Code,+Repeat.;Code+is+like+humour.;If+you+have+to+explain+your+code%2C+it's+bad.;Programming+is+a+vocation+of+mind." 
+        alt="Typing quote animation" />
+    <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Full+Stack+Developer+%F0%9F%92%BB;Turning+Ideas+Into+Real+World+Applications+%F0%9F%9A%80;Code.+Learn.+Build.+Repeat.+%E2%9A%A1" />
 
@@ -21,6 +29,7 @@
 <a href="https://github.com/nostos19?tab=repositories">
 <img src="https://img.shields.io/github/stars/nostos19?style=for-the-badge&color=111827&labelColor=050505&logo=github&label=STARS"/>
 </a>
+  
 
 </div>
 
